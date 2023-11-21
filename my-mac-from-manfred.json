@@ -1,0 +1,252 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Borja",
+      "surnames": "Andrés Marroquín",
+      "title": "Title",
+      "description": "Varios años de experiencia en desarrollo de aplicaciones web, sector en el que me gustaría seguir con mi carrera profesional.\nTengo un perfil más frontend, que es donde me gustaría seguir especializándome, pero a la hora de ejecutar proyectos participo en todas las áreas del ciclo de vida de estos: preventa, backlog, delivery, devops, desarrollo (front, back, bbdd), gestión de equipo, proyecto, ...\nMe gusta cuidar mucho el detalle y usabilidad de las aplicaciones web en las que trabajo.\nFoco en la calidad y buenas prácticas.\nEn los últimos 2 años he estado liderando como Engineering Manager un equipo de varias personas con varios proyectos, apoyando al equipo a crecer, así como a tomar decisiones técnicas y mantener las buenas prácticas que hemos definido como equipo.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/9e0e383b-9f04-412f-bced-9bd532f86db6_81b5f431d0877b06f02b.jpeg",
+        "alt": "81b5f431d0877b06f02b0b2045338a8036d035fc7cbec509d76f67664f16a106.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Bilbao"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/borjaandres/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/borya09"
+      }
+    ]
+  },
+  "experience": {},
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team management",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/borjaandres/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/borya09",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "borya09@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "679699965",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "Angular Universal",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Layout Designer / Maquetación",
+        "Project Manager & Delivery Manager"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Estoy buscando un proyecto que me permita desarrollar un producto con tecnologías punteras y donde se valore la ux, el detalle, las buenas prácticas.\n",
+    "goodPractices": "Testing, integración y despliegue continuo, metodología, análisis estático de código, SOLID, KISS"
+  }
+}
